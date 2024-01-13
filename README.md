@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shery1999
-- 👀 I’m interested in learning New things
-- 🌱 I’m currently learning PHP-Laravel
+- 🌱 PHP-Laravel/Next.js
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 You can contact me shehryargul998@gmail.com 
 - just drop a message 
